@@ -1,0 +1,10 @@
+c:\users\blusc\source\repos\TSClientSpammer\TSClientSpammer\bin\Debug\TSClientSpammer.exe.config
+c:\users\blusc\source\repos\TSClientSpammer\TSClientSpammer\bin\Debug\TSClientSpammer.exe
+c:\users\blusc\source\repos\TSClientSpammer\TSClientSpammer\bin\Debug\TSClientSpammer.pdb
+c:\users\blusc\source\repos\TSClientSpammer\TSClientSpammer\obj\Debug\TS3ClientSpammer.csprojResolveAssemblyReference.cache
+c:\users\blusc\source\repos\TSClientSpammer\TSClientSpammer\obj\Debug\TSClientSpammer.Main.resources
+c:\users\blusc\source\repos\TSClientSpammer\TSClientSpammer\obj\Debug\TSClientSpammer.Properties.Resources.resources
+c:\users\blusc\source\repos\TSClientSpammer\TSClientSpammer\obj\Debug\TS3ClientSpammer.csproj.GenerateResource.Cache
+c:\users\blusc\source\repos\TSClientSpammer\TSClientSpammer\obj\Debug\TS3ClientSpammer.csproj.CoreCompileInputs.cache
+c:\users\blusc\source\repos\TSClientSpammer\TSClientSpammer\obj\Debug\TSClientSpammer.exe
+c:\users\blusc\source\repos\TSClientSpammer\TSClientSpammer\obj\Debug\TSClientSpammer.pdb
